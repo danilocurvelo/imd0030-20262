@@ -122,7 +122,7 @@ title: Material
 
 16/06
 : **Lab**{: .label .label-yellow } TADs e STL
-  : [GitHub Classroom](#)
+  : [GitHub Classroom](https://classroom.github.com/a/qe1Ua6qP)
 
 <!-- 
 
