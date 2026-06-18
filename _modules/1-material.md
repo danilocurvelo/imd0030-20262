@@ -124,15 +124,27 @@ title: Material
 : **Lab**{: .label .label-yellow } TADs e STL
   : [GitHub Classroom](https://classroom.github.com/a/qe1Ua6qP)
 
-<!-- 
+
 
 #### Gerenciamento de I/O
 
-10/06
+18/06
 : **Conteúdo**{: .label .label-purple } Manipulação de arquivos
-  : [Slides](https://docs.google.com/presentation/d/1TFCwIdRswKJXx-pp9tEOwlDnrzq6GsF9C3Mxc-I52PY/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1h2jFDAcbRNqdancvCHljk9Zp5rjaQTxCTVeOYzD4TRE/edit?usp=sharing)
 
+#### AVALIAÇÃO
 
+07/07
+: **PROJETO**{: .label .label-red } Projeto Unidade 2
+  : [GitHub Classroom](https://classroom.github.com/a/5BS4McAC)
+  : 50% da Unidade 2
+
+07/07
+: **PROJETO**{: .label .label-red } Projeto final
+  : [GitHub Classroom](https://classroom.github.com/a/EmkuQHdg)
+  : 100% da Unidade 3
+
+<!-- 
 
 #### Tipos Abstratos de Dados
 
