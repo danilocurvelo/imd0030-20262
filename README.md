@@ -19,7 +19,7 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-Bem vindo ao curso **Linguagem de Programação I (IMD0030)** oferecido pelo Instituto Metrópole Digital no semestre 2026.1.
+Bem vindo ao curso **Linguagem de Programação I (IMD0030)** oferecido pelo Instituto Metrópole Digital no semestre 2026.2.
 
 Este curso foi desenvolvido para capacitar o estudante a utilizar a linguagem de programação C++ para a implementação de programas visando a solução de problemas, sem nunca esquecer de aplicar as *boas práticas de programação*. Durante este curso, nos aprofundaremos na sintaxe, lógica e paradigmas da programação em C++, capacitando vocês a dominarem os fundamentos e a prática da codificação eficiente e robusta. Que este curso seja uma experiência enriquecedora, preparando-os para enfrentar os desafios do mundo da programação com confiança e habilidade.
 
@@ -96,7 +96,7 @@ Dentro dos diferente tópicos que iremos abordar durante o curso estão: Operado
 
 [![discord](https://img.shields.io/badge/discord-canal-7289da?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/zKm3f83vnY)&nbsp;&nbsp;&nbsp;&nbsp;
 [![github](https://img.shields.io/badge/github-repositório-0d74e7?logo=github&logoColor=white&style=for-the-badge)](https://github.com/danilocurvelo-ufrn/imd0030-codes)&nbsp;&nbsp;&nbsp;&nbsp;
-[![githubclassroom](https://img.shields.io/badge/GitHub_Classroom-atividades-2dba4e?logo=googleclassroom&logoColor=white&style=for-the-badge)](https://classroom.github.com/classrooms/113917566-imd0030-2026-1)&nbsp;&nbsp;&nbsp;&nbsp;
+[![githubclassroom](https://img.shields.io/badge/Classroom_50-atividades-2dba4e?logo=googleclassroom&logoColor=white&style=for-the-badge)](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Avaliação
 

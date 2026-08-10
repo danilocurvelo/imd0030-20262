@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: IMD0030
 description: Linguagem de Programação I
-tagline: Universidade Federal do Rio Grande do Norte, 2026.1
+tagline: Universidade Federal do Rio Grande do Norte, 2026.2
 author: Danilo Curvelo
 baseurl: '/imd0030-20261' # the subpath of your site, e.g. /blog
 url: 'https://danilocurvelo.github.io' # the base hostname & protocol for your site, e.g. http://example.com

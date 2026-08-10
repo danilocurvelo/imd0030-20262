@@ -4,25 +4,25 @@ title: Material
 
 #### Apresentação
 
-10/03
+18/08
 : **Conteúdo**{: .label .label-purple } Apresentação
   : [Slides](https://docs.google.com/presentation/d/1nq-8uftxkcF0YG8Y0iyyg-RpBqSQOX48o8aHNmkhlbc/edit?usp=sharing)
 
-12/03
+20/08
 : **Conteúdo**{: .label .label-purple } A linguagem C++
   : [Slides](https://docs.google.com/presentation/d/1BNPBe6K4v0DEZp85nA8qPR4ckbkPj7yF9NjApWkqllk/edit?usp=sharing)
 
-19/03
+25/08
 : **Conteúdo**{: .label .label-purple } Ambiente de desenvolvimento
-  : [GitHub Classroom](https://classroom.github.com/a/Z5Kpsxgq), [Slides](https://docs.google.com/presentation/d/1k9YfIIonw4EDqufsU5_r0Pa8JRnCHskZxeZ3pUwW73I/edit?usp=sharing)
+  : [Classroom 50](https://classroom.github.com/a/Z5Kpsxgq), [Slides](https://docs.google.com/presentation/d/1k9YfIIonw4EDqufsU5_r0Pa8JRnCHskZxeZ3pUwW73I/edit?usp=sharing)
 
 
-24/03
+27/08
 : **Lab**{: .label .label-yellow } A linguagem C++
-  : [GitHub Classroom](https://classroom.github.com/a/Lc_TcZK6)
+  : [Classroo 50](#)
 
 
-
+<!-- 
 #### Modularização
 
 31/03
@@ -142,7 +142,7 @@ title: Material
 07/07
 : **PROJETO**{: .label .label-red } Projeto final
   : [GitHub Classroom](https://classroom.github.com/a/EmkuQHdg)
-  : 100% da Unidade 3
+  : 100% da Unidade 3 -->
 
 <!-- 
 
