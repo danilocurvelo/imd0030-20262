@@ -9,11 +9,11 @@ schedule:
     events:
   - name: Tuesday
     events:
-      - name: Turma 05
+      - name: Turma 03
         start: 6:40 PM
         end: 8:20 PM
         location: A102
-      - name: Turma 06
+      - name: Turma 04
         start: 8:30 PM
         end: 22:10 PM
         location: A102
@@ -21,11 +21,11 @@ schedule:
     events:
   - name: Thursday
     events:
-      - name: Turma 05
+      - name: Turma 03
         start: 6:40 PM
         end: 8:20 PM
         location: A102
-      - name: Turma 06
+      - name: Turma 04
         start: 8:30 PM
         end: 22:10 PM
         location: A102

@@ -10,16 +10,16 @@ title: Material
 
 20/08
 : **Conteúdo**{: .label .label-purple } A linguagem C++
-  : [Slides](https://docs.google.com/presentation/d/1BNPBe6K4v0DEZp85nA8qPR4ckbkPj7yF9NjApWkqllk/edit?usp=sharing)
+  : [Slides](#)
 
 25/08
 : **Conteúdo**{: .label .label-purple } Ambiente de desenvolvimento
-  : [Classroom 50](https://classroom.github.com/a/Z5Kpsxgq), [Slides](https://docs.google.com/presentation/d/1k9YfIIonw4EDqufsU5_r0Pa8JRnCHskZxeZ3pUwW73I/edit?usp=sharing)
+  : [Classroom 50](#), [Slides](#)
 
 
 27/08
 : **Lab**{: .label .label-yellow } A linguagem C++
-  : [Classroo 50](#)
+  : [Classroom 50](#)
 
 
 <!-- 
