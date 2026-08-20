@@ -10,7 +10,7 @@ title: Material
 
 20/08
 : **Conteúdo**{: .label .label-purple } A linguagem C++
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1BNPBe6K4v0DEZp85nA8qPR4ckbkPj7yF9NjApWkqllk/edit?usp=sharing)
 
 25/08
 : **Conteúdo**{: .label .label-purple } Ambiente de desenvolvimento
