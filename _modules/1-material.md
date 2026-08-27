@@ -17,13 +17,12 @@ title: Material
   : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-00/accept), [Slides](https://docs.google.com/presentation/d/1k9YfIIonw4EDqufsU5_r0Pa8JRnCHskZxeZ3pUwW73I/edit?usp=sharing)
 
 
-<!-- 
-
 27/08
 : **Lab**{: .label .label-yellow } A linguagem C++
-  : [Classroom 50](#)
+  : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-01/accept)
 
 
+<!-- 
 
 #### Modularização
 
