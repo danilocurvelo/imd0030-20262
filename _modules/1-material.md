@@ -22,21 +22,22 @@ title: Material
   : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-01/accept)
 
 
-<!-- 
+
 
 #### Modularização
 
-31/03
+01/09
 : **Conteúdo**{: .label .label-purple } Modularização
   : [Slides](https://docs.google.com/presentation/d/1pnZ3FoHdnH3OPsSNfuxJZA-CLGulxnNcfiUAiDDtSwc/edit?usp=sharing)
 
   
 
-07/04
+03/09
 : **Lab**{: .label .label-yellow } Modularização na prática
-  : [GitHub Classroom](https://classroom.github.com/a/P_TL8wZg)
+  : [GitHub Classroom](#)
 
 
+<!-- 
 
 #### Recursão
 
