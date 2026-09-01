@@ -34,7 +34,7 @@ title: Material
 
 03/09
 : **Lab**{: .label .label-yellow } Modularização na prática
-  : [GitHub Classroom](#)
+  : [Classroom 50](#)
 
 
 <!-- 
