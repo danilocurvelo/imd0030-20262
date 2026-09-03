@@ -34,7 +34,7 @@ title: Material
 
 03/09
 : **Lab**{: .label .label-yellow } Modularização na prática
-  : [Classroom 50](#)
+  : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-02/accept)
 
 
 <!-- 
