@@ -47,7 +47,7 @@ title: Material
 
 15/09
 : **Lab**{: .label .label-yellow } Recursividade na prática
-  : [GitHub Classroom](#)
+  : [Classroom 50](#)
 
 
 <!-- 
