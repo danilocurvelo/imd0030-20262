@@ -37,20 +37,20 @@ title: Material
   : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-02/accept)
 
 
-<!-- 
+
 
 #### Recursão
 
-09/04
+10/09
 : **Conteúdo**{: .label .label-purple } Recursividade
-  : [Slides](https://docs.google.com/presentation/d/1eGwzwu1-ByA7Alfoqqkga8t-9PDkujuYK5Jh2JXbLdQ/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1_rtoIcL550NNJCzObJZX53WjCfbrF0dFSMWv21tRqrk/edit?usp=sharing)
 
-14/04
+15/09
 : **Lab**{: .label .label-yellow } Recursividade na prática
-  : [GitHub Classroom](https://classroom.github.com/a/ymloRE_B)
+  : [GitHub Classroom](#)
 
 
-
+<!-- 
 
 #### Introdução a Orientação a Objetos
 
