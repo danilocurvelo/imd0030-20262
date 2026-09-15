@@ -47,7 +47,7 @@ title: Material
 
 15/09
 : **Lab**{: .label .label-yellow } Recursividade na prática
-  : [Classroom 50](#)
+  : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-03/accept)
 
 
 <!-- 
