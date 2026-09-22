@@ -50,29 +50,29 @@ title: Material
   : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-03/accept)
 
 
-<!-- 
+
 
 #### Introdução a Orientação a Objetos
 
-16/04
+22/09
 : **Conteúdo**{: .label .label-purple } Introdução a OO
-  : [Slides](https://docs.google.com/presentation/d/1--VYs2ZYcgC5sMaOxIWP9K1LgUagmIF5vblZfEwKYQM/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1_h5-dmM5cBtsLkgLnqFBQ9lmCXRb3tIc99OAjbJghGE/edit?usp=sharing)
 
-28/04
+24/09
 : **Conteúdo**{: .label .label-purple } Construtores e destrutores
-  : [Slides](https://docs.google.com/presentation/d/1is8C1M6PztciZZlZx5MmPkqkUoSRckttuhXwwWQtgtU/edit?usp=sharing)
+  : [Slides](#)
 
-30/04
+29/09
 : **Lab**{: .label .label-yellow } POO na prática
-  : [GitHub Classroom](https://classroom.github.com/a/Px-F14YK)
+  : [GitHub Classroom](#)
 
 #### AVALIAÇÃO
 
-05/05
+01/10
 : **PROVA**{: .label .label-red } 1ª avaliação escrita
   : 50% da Unidade 1 
 
-
+<!-- 
 
 
 #### Sobrecarga (_overloading_)
