@@ -59,8 +59,8 @@ title: Material
   : [Slides](https://docs.google.com/presentation/d/1_h5-dmM5cBtsLkgLnqFBQ9lmCXRb3tIc99OAjbJghGE/edit?usp=sharing)
 
 24/09
-: **Conteúdo**{: .label .label-purple } Construtores e destrutores
-  : [Slides](#)
+: **Conteúdo**{: .label .label-purple } Construtores e membros estáticos
+  : [Slides](https://docs.google.com/presentation/d/1is8C1M6PztciZZlZx5MmPkqkUoSRckttuhXwwWQtgtU/edit?usp=sharing)
 
 29/09
 : **Lab**{: .label .label-yellow } POO na prática
