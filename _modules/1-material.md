@@ -64,11 +64,11 @@ title: Material
 
 29/09
 : **Lab**{: .label .label-yellow } POO na prática
-  : [GitHub Classroom](#)
+  : [GitHub Classroom](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-04/accept)
 
 #### AVALIAÇÃO
 
-01/10
+06/10
 : **PROVA**{: .label .label-red } 1ª avaliação escrita
   : 50% da Unidade 1 
 
