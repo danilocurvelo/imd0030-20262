@@ -72,25 +72,25 @@ title: Material
 : **PROVA**{: .label .label-red } 1ª avaliação escrita
   : 50% da Unidade 1 
 
-<!-- 
+
 
 
 #### Sobrecarga (_overloading_)
 
-07/05
+15/10
 : **Conteúdo**{: .label .label-purple } Sobrecarga de funções e passagem por referência
   : [Slides](https://docs.google.com/presentation/d/1-cfi-3pi1geY9xFYnrz_Wza12QQJglF3W3EHEo9cfaM/edit?usp=sharing)
 
-14/05
+20/10
 : **Conteúdo**{: .label .label-purple } Sobrecarga de operadores
-  : [Slides](https://docs.google.com/presentation/d/1JidF5UAzzSFEyqKolcHK8MCQuZjib3VTdAdVVN4a8fE/edit?usp=sharing)
+  : [Slides](#)
 
-19/05
+22/10
 : **Lab**{: .label .label-yellow } Sobrecarga de funções e operadores
-  : [GitHub Classroom](https://classroom.github.com/a/jNZzt0N1)
+  : [GitHub Classroom](#)
 
 
-
+<!-- 
 
 #### Herança, classes abstratas e interfaces
 
