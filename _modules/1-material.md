@@ -87,7 +87,7 @@ title: Material
 
 22/10
 : **Lab**{: .label .label-yellow } Sobrecarga de funções e operadores
-  : [GitHub Classroom](#)
+  : [GitHub Classroom](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-05/accept)
 
 
 <!-- 
