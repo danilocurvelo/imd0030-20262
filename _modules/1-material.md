@@ -90,7 +90,7 @@ title: Material
   : [GitHub Classroom](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-05/accept)
 
 
-<!-- 
+
 
 #### Herança, classes abstratas e interfaces
 
@@ -100,9 +100,9 @@ title: Material
 
 28/05
 : **Lab**{: .label .label-yellow } Herança e classes abstratas
-  : [GitHub Classroom](https://classroom.github.com/a/7Ub43yjY)
+  : [GitHub Classroom](#)
 
-
+<!-- 
 
 #### Programação genérica
 
