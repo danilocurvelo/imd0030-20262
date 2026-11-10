@@ -100,7 +100,7 @@ title: Material
 
 28/05
 : **Lab**{: .label .label-yellow } Herança e classes abstratas
-  : [GitHub Classroom](#)
+  : [GitHub Classroom](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-06/accept)
 
 <!-- 
 
