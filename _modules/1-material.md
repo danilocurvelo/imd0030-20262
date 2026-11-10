@@ -94,11 +94,11 @@ title: Material
 
 #### Herança, classes abstratas e interfaces
 
-26/05
+03/11
 : **Conteúdo**{: .label .label-purple } Herança, classes abstratas e interfaces
   : [Slides](https://docs.google.com/presentation/d/19fOmAGOXQiYlPeFEQpjXCabLzx92bLIFvqwPhK-ukis/edit?usp=sharing)
 
-28/05
+10/11
 : **Lab**{: .label .label-yellow } Herança e classes abstratas
   : [GitHub Classroom](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-06/accept)
 
