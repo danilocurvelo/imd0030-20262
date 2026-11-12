@@ -64,7 +64,7 @@ title: Material
 
 29/09
 : **Lab**{: .label .label-yellow } POO na prática
-  : [GitHub Classroom](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-04/accept)
+  : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-04/accept)
 
 #### AVALIAÇÃO
 
@@ -87,7 +87,7 @@ title: Material
 
 22/10
 : **Lab**{: .label .label-yellow } Sobrecarga de funções e operadores
-  : [GitHub Classroom](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-05/accept)
+  : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-05/accept)
 
 
 
@@ -100,7 +100,7 @@ title: Material
 
 10/11
 : **Lab**{: .label .label-yellow } Herança e classes abstratas
-  : [GitHub Classroom](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-06/accept)
+  : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-06/accept)
 
 
 
@@ -112,7 +112,7 @@ title: Material
 
 17/11
 : **Lab**{: .label .label-yellow } Templates de funções e classes
-  : [GitHub Classroom](#)
+  : [Classroom 50](#)
 
 <!-- 
 
