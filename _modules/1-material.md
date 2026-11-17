@@ -112,7 +112,7 @@ title: Material
 
 17/11
 : **Lab**{: .label .label-yellow } Templates de funções e classes
-  : [Classroom 50](#)
+  : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-07/accept)
 
 <!-- 
 
