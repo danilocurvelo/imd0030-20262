@@ -114,37 +114,28 @@ title: Material
 : **Lab**{: .label .label-yellow } Templates de funções e classes
   : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-07/accept)
 
-<!-- 
 
-#### Tipos Abstratos de Dados
+
+#### STL e I/O
 
 11/06
-: **Conteúdo**{: .label .label-purple } TADs e STL
-  : [Slides](https://docs.google.com/presentation/d/1wsJc3FGWOk2jPJtgGX83tDDvRiktxyNK5DYvbE5tvHE/edit?usp=sharing) 
-
-16/06
-: **Lab**{: .label .label-yellow } TADs e STL
-  : [GitHub Classroom](https://classroom.github.com/a/qe1Ua6qP)
+: **Conteúdo**{: .label .label-purple } STL e I/O
+  : [Slides](https://docs.google.com/presentation/d/1fCex1i0SpPmjHzpKnL-5N3Y75TRgIYvF3PuYlunGE0c/edit?usp=sharing) 
 
 
-
-#### Gerenciamento de I/O
-
-18/06
-: **Conteúdo**{: .label .label-purple } Manipulação de arquivos
-  : [Slides](https://docs.google.com/presentation/d/1h2jFDAcbRNqdancvCHljk9Zp5rjaQTxCTVeOYzD4TRE/edit?usp=sharing)
 
 #### AVALIAÇÃO
 
-07/07
-: **PROJETO**{: .label .label-red } Projeto Unidade 2
-  : [GitHub Classroom](https://classroom.github.com/a/5BS4McAC)
+08/12
+: **PROJETO**{: .label .label-red } Projeto Unidade 2 (Lab-08)
+  : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/lab-08/accept)
   : 50% da Unidade 2
 
-07/07
+10/12
 : **PROJETO**{: .label .label-red } Projeto final
-  : [GitHub Classroom](https://classroom.github.com/a/EmkuQHdg)
-  : 100% da Unidade 3 -->
+  : [Classroom 50](https://classroom50.org/danilocurvelo-ufrn/imd0030-20262/assignments/projeto-final/accept)
+  : 100% da Unidade 3 
+
 
 <!-- 
 
